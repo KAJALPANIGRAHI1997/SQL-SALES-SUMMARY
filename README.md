@@ -43,16 +43,16 @@ Run the Python script:
 python sales_summary.py
 
 ## 📊 Output
-
-Console: Prints the aggregated summary table
-
-Chart: Generates a bar chart (sales_chart.png) showing total revenue per product
+- **Console:** Prints the aggregated summary table
+- **Chart:** Generates a bar chart (`sales_chart.png`) showing total revenue per product
 
 Example summary:
 
-product	total_qty	price	total_revenue	profit
-Module-Y	425	150	63,750	19,125
-Modul-X	540	200	108,000	32,400
+| product   | total_qty | price | total_revenue | profit |
+|-----------|-----------|-------|---------------|--------|
+| Module-Y  | 425       | 150   | 63,750        | 19,125 |
+| Modul-X   | 540       | 200   | 108,000       | 32,400 |
+
 ## 🎯 Learning Outcomes
 
 How to create and connect to a SQLite database in Python
