@@ -1,7 +1,5 @@
-# SQL-SALES-SUMMARY
-Python + SQLite project to calculate total quantity, price, revenue, and profit from a sales dataset, with results visualized using Matplotlib.
 # SQLite Sales Summary with Python
-
+Python + SQLite project to calculate total quantity, price, revenue, and profit from a sales dataset, with results visualized using Matplotlib.
 ## 📌 Overview
 This project demonstrates how to:
 - Load an Excel dataset into a SQLite database
